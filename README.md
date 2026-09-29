@@ -129,9 +129,9 @@ portfolio-react/
 
 ## Portfólio online
 
-O portfólio será disponibilizado online após a realização do deploy.
+O portfólio está publicado e pode ser acessado pelo link abaixo:
 
-**Link do portfólio:** será adicionado após o deploy.
+**Link do portfólio:** https://trabalho-final-amber-zeta.vercel.app
 
 ## Contato
 
